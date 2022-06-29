@@ -1,1 +1,1 @@
-# cursoProfecionalJavaScript
+# cursoProfesionalJavaScript
